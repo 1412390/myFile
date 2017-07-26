@@ -1,2 +1,2 @@
-This is my first file
+//this line is deleted
 ///....some infor added
